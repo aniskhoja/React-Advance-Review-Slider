@@ -1,5 +1,2 @@
-# react-projects-7-slider
-
-#### IN ACTION
-
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+# react-Infinite Slider
+Check Live: https://react-advance-review-slider.vercel.app/
